@@ -1,6 +1,5 @@
 #netlify
-https://stupendous-beijinho-1d6515.netlify.app/
-
+https://6389a15aff84cc4400be4b96--rad-starlight-3ab911.netlify.app/
 
 #vercel
-https://first-portfolio-two.vercel.app/
+https://first-portfolio-gamma.vercel.app/

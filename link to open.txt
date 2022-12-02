@@ -1,1 +1,6 @@
+#netlify
 https://stupendous-beijinho-1d6515.netlify.app/
+
+
+#vercel
+https://first-portfolio-two.vercel.app/
